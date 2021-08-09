@@ -8,14 +8,14 @@
 
 ## ⭐ Git 특강 
 
-### 	[Markdown](https://github.com/handhak0/TIL) 
+### 	[Markdown](https://github.com/handhak0/TIL/blob/master/00.Spcial_Lecture/00.Special_Lecture_Markdown.md) 
 
 - 마크업 언어란 ?
 - 마크다운 특징
 - 마크다운 문법
 - 참조 사이트
 
-### 	[Git](https://github.com/handhak0/TIL)
+### 	[Git](https://github.com/handhak0/TIL/blob/master/00.Spcial_Lecture/00.Special_Lecture_Git.md)
 
 - git 사용하기
 - 기본 명령어 
@@ -30,7 +30,7 @@
 
 # 01. Python Grammar
 
-## 📕 [멀티캠퍼스 python 문법](https://github.com/handhak0/python_multicampus)
+## 📕 [멀티캠퍼스 python 문법](https://github.com/handhak0/TIL/blob/master/01.Python_Grammar/01.Python_Grammar.md)
 
 - Unit 04 기본문법
 
