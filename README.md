@@ -1,19 +1,21 @@
+# 💻 TIL 
+
+하루하루 배운 것을 정리하자! 
+
+
+
 # 00. Special Lecture
 
-## Git 특강 
+## ⭐ Git 특강 
 
-### 	Markdown 
+### 	[Markdown](https://github.com/handhak0/TIL) 
 
 - 마크업 언어란 ?
 - 마크다운 특징
 - 마크다운 문법
 - 참조 사이트
 
-### 	Typora
-
-- 설치 
-
-### 	Git 
+### 	[Git](https://github.com/handhak0/TIL)
 
 - git 사용하기
 - 기본 명령어 
@@ -28,7 +30,7 @@
 
 # 01. Python Grammar
 
-## 멀티캠퍼스 python 문법 
+## 📕 [멀티캠퍼스 python 문법](https://github.com/handhak0/python_multicampus)
 
 - Unit 04 기본문법
 
