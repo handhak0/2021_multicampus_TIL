@@ -38,7 +38,7 @@
 
 # 01. Python Grammar
 
-## 📕 [멀티캠퍼스 python 문법](https://github.com/handhak0/TIL/blob/master/01.Python_Grammar/01.Python_Grammar.md) (2021.08.08 ~ )
+## 📕 [멀티캠퍼스 python 문법](https://github.com/handhak0/TIL/blob/master/01.Python_Grammar/01.Python_Grammar.md) (2021.08.08 ~ 2021.08.12)
 
 - Unit 04 기본문법
 - Unit 05 숫자계산 
@@ -60,3 +60,11 @@
 
 
 
+# 02. Data Analysis 
+
+## 📒 [Numpy (2021.08.12 ~ 2021.08.12)](https://github.com/handhak0/TIL/blob/master/02.Data_Analysis/02.Data_Analysis_Numpy.md)
+
+- array 생성 
+- array shape 
+- creation function 
+- 기술통계
