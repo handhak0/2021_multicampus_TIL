@@ -98,9 +98,9 @@
 
 
 
-## 📖 Crawling (2021.08.17 ~)
+## 📘 Crawling (2021.08.17 ~ 2021.08.19)
 
 - 배경지식 
 - BeautifulSoup 
 - Request 
-- 
+- Selenium ~ webdriver
