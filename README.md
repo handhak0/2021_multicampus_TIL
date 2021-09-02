@@ -36,6 +36,13 @@
 
 
 
+## ⭐Algorithm 특강 (2021.08.21, 2021.08.28)
+
+- 자료구조 
+- 알고리즘 
+
+
+
 # 01. Python Grammar
 
 ## 📕 [멀티캠퍼스 python 문법](https://github.com/handhak0/TIL/blob/master/01.Python_Grammar/01.Python_Grammar.md) (2021.08.08 ~ 2021.08.12)
@@ -104,3 +111,30 @@
 - BeautifulSoup 
 - Request 
 - Selenium ~ webdriver
+
+
+
+# 03. E-learning 
+
+## 📒 Algorithm 
+
+
+
+# 04. Database 
+
+## 📘 Oracle Cloud (2021.08.23 ~ 2021.08.25)
+
+- Linux 
+
+## 📖 MySQL (2021.08.26~)
+
+- MySQL 
+
+
+
+# 05. NLP 
+
+## 📖 Text Preprocessing (2021.08.31 ~ )
+
+- Text Preprocessing 
+- Language Model 
